@@ -122,53 +122,6 @@
 
 ---
 
-## Why use it?
-
-I'm following this plan to prepare for my Google interview. I've been building the web, building
-services, and launching startups since 1997. I have an economics degree, not a CS degree.  I've
-been very successful in my career, but I want to work at Google. I want to progress into larger systems
-and get a real understanding of computer systems, algorithmic efficiency, data structure performance,
-low-level languages, and how it all works. And if you don't know any of it, Google won't hire you.
-
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
-Every data structure I've ever used was built into the language, and I didn't know how they worked
-under the hood at all. I've never had to manage memory unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
-thousands of associative arrays, but I've never created data structures from scratch.
-
-But after going through this study plan I have high confidence I'll be hired. It's a long plan. It's going to take me
-months. If you are familiar with a lot of this already it will take you a lot less time.
-
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using Github's special markdown flavor, including tasks lists to check progress.
-
-- [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
-
-
-    Fork a branch and follow the commands below
-
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/google-interview-university`
-
-`git fetch --all`
-
-    Mark all boxes with X after you completed your changes
-
-`git add . `
-
-`git commit -m "Marked x" `
-
-`git rebase jwasham/master `
-
-`git push --force `
-
-
-
 ## About Google
 
 - [x] For students - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
@@ -224,27 +177,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 I wrote this short article about it: [Important: Pick One Language for the Google Interview](https://googleyasheck.com/important-pick-one-language-for-the-google-interview/)
 
-You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
 
-- C++
-- Java
-- Python
-
-You could also use these, but read around first. There may be caveats:
-
-- JavaScript
-- Ruby
-
-You need to be very comfortable in the language and be knowledgeable.
-
-Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
-- https://www.quora.com/What-is-the-best-language-to-program-in-for-an-in-person-Google-interview
-
-[See language resources here](programming-language-resources.md)
-
-You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
 ### Interview Prep
 
@@ -399,25 +332,28 @@ You don't need all these. You need only [one language for the interview](#pick-o
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
 ## Prerequisite Knowledge
-- [ ] **How computers process a program:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [x] **How computers process a program:**
+    - [x] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [x] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Java Mastering Journey
 ### HackerRank
     - [ ] [Introduction (exercises)](https://www.hackerrank.com/domains/java/java-introduction)
-    - [ ] [Strings]
-    - [ ] [BigNumber]
-    - [ ] [Data Structures]
-    - [ ] [Object Oriented Programming]
-    - [ ] [Exception Handling]
-    - [ ] [Advanced]
+    - [ ] [Strings(exercises)](https://www.hackerrank.com/domains/java/java-strings/page:1)
+    - [ ] [BigNumber(exercises)](https://www.hackerrank.com/domains/java/bignumber/page:1)
+    - [ ] [Data Structures(exercises)](https://www.hackerrank.com/domains/java/java-data-structure/page:1)
+    - [ ] [Object Oriented Programming(exercises)](https://www.hackerrank.com/domains/java/oop/page:1)
+    - [ ] [Exception Handling(exercises)](https://www.hackerrank.com/domains/java/handling-exceptions/page:1)
+    - [ ] [Advanced(exercises)](https://www.hackerrank.com/domains/java/java-advanced/page:1)
 
 ### Courses and Books
     - [ ] [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
     - [ ] [Software Construction In Java (video)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
     - [ ] [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
     - [ ] [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)
+    - [ ] [Computer Architecture - A Quantitative Approach (book)](https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X)
+    - [ ] [Data Structures & Algorithms (book)](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/ref=sr_1_1?s=books&ie=UTF8&qid=1482471647&sr=1-1&keywords=data+structures+and+algorithms+in+java)
+
 
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
