@@ -338,21 +338,21 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Java Mastering Journey
 ### HackerRank
-    - [ ] [Introduction (exercises)](https://www.hackerrank.com/domains/java/java-introduction)
-    - [ ] [Strings(exercises)](https://www.hackerrank.com/domains/java/java-strings/page:1)
-    - [ ] [BigNumber(exercises)](https://www.hackerrank.com/domains/java/bignumber/page:1)
-    - [ ] [Data Structures(exercises)](https://www.hackerrank.com/domains/java/java-data-structure/page:1)
-    - [ ] [Object Oriented Programming(exercises)](https://www.hackerrank.com/domains/java/oop/page:1)
-    - [ ] [Exception Handling(exercises)](https://www.hackerrank.com/domains/java/handling-exceptions/page:1)
-    - [ ] [Advanced(exercises)](https://www.hackerrank.com/domains/java/java-advanced/page:1)
+- [ ] [Introduction (exercises)](https://www.hackerrank.com/domains/java/java-introduction)
+- [ ] [Strings(exercises)](https://www.hackerrank.com/domains/java/java-strings/page:1)
+- [ ] [BigNumber(exercises)](https://www.hackerrank.com/domains/java/bignumber/page:1)
+- [ ] [Data Structures(exercises)](https://www.hackerrank.com/domains/java/java-data-structure/page:1)
+- [ ] [Object Oriented Programming(exercises)](https://www.hackerrank.com/domains/java/oop/page:1)
+- [ ] [Exception Handling(exercises)](https://www.hackerrank.com/domains/java/handling-exceptions/page:1)
+- [ ] [Advanced(exercises)](https://www.hackerrank.com/domains/java/java-advanced/page:1)
 
 ### Courses and Books
-    - [ ] [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
-    - [ ] [Software Construction In Java (video)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
-    - [ ] [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
-    - [ ] [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)
-    - [ ] [Computer Architecture - A Quantitative Approach (book)](https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X)
-    - [ ] [Data Structures & Algorithms (book)](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/ref=sr_1_1?s=books&ie=UTF8&qid=1482471647&sr=1-1&keywords=data+structures+and+algorithms+in+java)
+- [ ] [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
+- [ ] [Software Construction In Java (video)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
+- [ ] [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
+- [ ] [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)
+- [ ] [Computer Architecture - A Quantitative Approach (book)](https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X)
+- [ ] [Data Structures & Algorithms (book)](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/ref=sr_1_1?s=books&ie=UTF8&qid=1482471647&sr=1-1&keywords=data+structures+and+algorithms+in+java)
 
 
 
